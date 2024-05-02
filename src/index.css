@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply max-h-screen tracking-wider; 
+  }
+}
+
+body {
+  background-color: #dad7cd;
+};
